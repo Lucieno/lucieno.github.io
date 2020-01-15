@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2017: Research Assistant
+* Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17)
   * Oak Ridge National Laboratory
   * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
   a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
