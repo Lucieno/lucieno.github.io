@@ -74,13 +74,13 @@ Scholarship & Awards
   * [CUHK Mathematic Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
     * Excellent performance on HKDSE
 
-<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}

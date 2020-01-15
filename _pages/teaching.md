@@ -23,7 +23,7 @@ Tutoring on Research Projects
     * Gary Chow, Donald Wong, Final Year Project, 2018/19
     * Best Final Year Project Awards!
 
-  * Improving Latency of Secure Neural Network Inference: 
+  * Improving Latency of Secure Neural Network Inference
     * Nash Chow, Peter Wong, Final Year Project, 2018/19
 
 
