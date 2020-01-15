@@ -67,11 +67,11 @@ Scholarship & Awards
     * Top 10% in the faculty of engineering
   * [ELITE Stream Student Scholarship 2017/18](https://www.erg.cuhk.edu.hk/erg/Elite/Scholarship) 
     * Excellent performance on ELITE courses
-  * 1978 Mathematics Alumnus Li Sze-lim Scholarship 2017/18 
+  * [1978 Mathematics Alumnus Li Sze-lim Scholarship 2017/18](https://www.math.cuhk.edu.hk/student-centre/scholarships/1978-mathematics-alumus-li-sze-lim-scholarships)
     * Full sponsorship for oversea research
-  * Wu Yee Sun College’s Academic Excellence Scholarship 2016/17
+  * [Wu Yee Sun College’s Academic Excellence Scholarship 2016/17](https://www.wys.cuhk.edu.hk/news/scholarships-for-academic-excellence-201617/?lang=zh)
     * Top 3 students of each faulty in the college
-  * CUHK Mathematic Scholarship 2014/15 
+  * [CUHK Mathematic Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
     * Excellent performance on HKDSE
 
 <!---
