@@ -13,8 +13,8 @@ I'm also a resident tutor at [CUHK's Shaw College](http://www.shaw.cuhk.edu.hk/)
 
 Education
 ======
-* B.Sc in Mathematic and Information Engineering, First Class, The Chinese University of Hong Kong, 2014 - 2018
 * M.Phil. in Information Engineering, The Chinese University of Hong Kong, 2018 - Present
+* B.Sc in Mathematic and Information Engineering, First Class, The Chinese University of Hong Kong, 2014 - 2018
 
 Work experience
 ======
