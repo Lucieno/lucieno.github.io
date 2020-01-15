@@ -25,6 +25,5 @@ Tutoring on Research Projects
 
   * Improving Latency of Secure Neural Network Inference: 
     * Nash Chow, Peter Wong, Final Year Project, 2018/19
-    * Improving Latency of Secure Neural Network Inference
 
 

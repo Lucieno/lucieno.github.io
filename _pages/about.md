@@ -35,7 +35,7 @@ Work experience
   * Supervisor: [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
   
 
-Speaking Languages
+Languages
 ======
   * Chinese (Native)
   * English (Fluent)
