@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "IERG 5590 Advanced Topics in Blockchain"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/2020-spring-ierg-5590
+venue: "The Chinese University of Hong Kong, Department of Information Engineering"
+date: 2020-09-01
+location: "Hong Kong SAR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Provided programming tutorial sessions for blackchain
+- Designed online quiz to motivate students' learning

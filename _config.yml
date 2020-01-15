@@ -78,16 +78,19 @@ analytics:
     tracking_id          :
 
 
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+        
+
 # Site Author
 author:
   name             : "Lucien Ng"
   avatar           : "profile.png"
-  bio              : "Secure Machien Learning and Blockchain"
+  bio              : "Secure Machien Learning and Blockchains"
   location         : "Hong Kong"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Lucien_Ng"
   uri              :
   bitbucket        :
   codepen          :

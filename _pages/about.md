@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-A Mphil. student working on applied cryptography, in particular, privacy-preserving machine learning and cryptocurrency/blockchain, under the supervision of Prof. Sherman S.M. Chow
+A Mphil. student working on applied cryptography, in particular, privacy-preserving machine learning and cryptocurrency/blockchain, under the supervision of [Prof. Sherman S.M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/). 
+I'm also a resident tutor at [CUHK's Shaw College](http://www.shaw.cuhk.edu.hk/).
