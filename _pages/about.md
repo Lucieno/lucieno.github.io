@@ -27,7 +27,7 @@ Work experience
   and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
   * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
   for decodiing brain-wave to classify users’ intended computer cursor movement
-  * Supervisors: [Prof. Stanimire Tomov](https://mabe.utk.edu/people/xiaopeng-zhao/)
+  * Supervisors: [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
 * Summer 2016: Research Assistant
   * The Chinese University of Hong Kong
   * A machine learning [library](https://github.com/husky-team/husky/tree/master/lib/ml) 
