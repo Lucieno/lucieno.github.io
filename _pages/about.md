@@ -49,7 +49,7 @@ Programming Skills
     * Java, C#, Go, ...
   * Familiar Frameworks/Libraries
     * [Pytorch](https://pytorch.org/) (Machine Learning/Deep Neural Network/High-Performance Computation)
-    * Microsoft [SEAL](https://github.com/Microsoft/SEAL) (Somewhat Homomorphic Encryption)
+    * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Somewhat Homomorphic Encryption)
     * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
     * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
     * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
