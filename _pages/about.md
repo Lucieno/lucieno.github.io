@@ -46,7 +46,7 @@ Programming Skills
   * Programming Languages
     * Python (Fluent)
     * C/C++ (Fluent)
-    * Java, C#, Go, ...
+    * Javascript, C#, Java, Go, R, Prolong, PHP, ...
   * Familiar Frameworks/Libraries
     * [Pytorch](https://pytorch.org/) (Machine Learning/Deep Neural Network/High-Performance Computation)
     * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Somewhat Homomorphic Encryption)
