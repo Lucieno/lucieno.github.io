@@ -15,6 +15,8 @@ Education
 ======
 * M.Phil. in Information Engineering, The Chinese University of Hong Kong, 2018 - Present
 * B.Sc in Mathematic and Information Engineering, First Class, The Chinese University of Hong Kong, 2014 - 2018
+  * Minor in Computer Science
+  * [ELITE Stream: Engineering Leadership, Innovation, Technology and Entrepreneurship](https://www.erg.cuhk.edu.hk/erg/Elite)
 
 Work experience
 ======
@@ -48,8 +50,8 @@ Programming Skills
     * C/C++ (Fluent)
     * Javascript, C#, Java, Go, R, Prolong, PHP, ...
   * Familiar Frameworks/Libraries
-    * [Pytorch](https://pytorch.org/) (Machine Learning/Deep Neural Network/High-Performance Computation)
-    * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Somewhat Homomorphic Encryption)
+    * [Pytorch](https://pytorch.org/) (Deep Neural Network & High-Performance Computation)
+    * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Homomorphic Encryption)
     * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
     * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
     * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
@@ -57,14 +59,15 @@ Programming Skills
     * [ZeroMQ](https://github.com/zeromq/libzmq) (Messaging Kernel)
 
 
-Scholarship & Awards
+Scholarships & Awards
 =====
   * [Bronze Award of the ASM Technology Award 2018](https://www.erg.cuhk.edu.hk/erg/node/1657)
     * High-quality final year project in engineering
+    * Fully-sponsored trip to Munich, Germany & a Scholarship
   * Wu Yee Sun College’s Master’s List 2015/16, 2016/17, 2017/18 
     * Topmost student of each major program in college
   * Faculty’s Dean’s List 2015/16, 2016/17, 2017/18 
-    * Top 10% in the faculty of engineering
+    * Top in the faculty of engineering
   * [ELITE Stream Student Scholarship 2017/18](https://www.erg.cuhk.edu.hk/erg/Elite/Scholarship) 
     * Excellent performance on ELITE courses
   * [1978 Mathematics Alumnus Li Sze-lim Scholarship 2017/18](https://www.math.cuhk.edu.hk/student-centre/scholarships/1978-mathematics-alumus-li-sze-lim-scholarships)
