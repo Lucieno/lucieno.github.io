@@ -63,7 +63,7 @@ Scholarships & Awards
 =====
   * [Bronze Award of the ASM Technology Award 2018](https://www.erg.cuhk.edu.hk/erg/node/1657)
     * High-quality final year project in engineering
-    * Fully-sponsored trip to Munich, Germany & a Scholarship
+    * Fully-sponsored trip to Munich, Germany & a scholarship
   * Wu Yee Sun College’s Master’s List 2015/16, 2016/17, 2017/18 
     * Topmost student of each major program in college
   * Faculty’s Dean’s List 2015/16, 2016/17, 2017/18 
