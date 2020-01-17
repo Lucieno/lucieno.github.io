@@ -33,7 +33,7 @@ Work experience
 * Summer 2016: Research Assistant
   * The Chinese University of Hong Kong
   * A machine learning [library](https://github.com/husky-team/husky/tree/master/lib/ml) 
-  for regression on distributed computation
+  utilizing distributed computation
   * Supervisor: [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
   
 
