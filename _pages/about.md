@@ -55,6 +55,7 @@ Programming Skills
     * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
     * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
     * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
+    * [Magma](https://icl.cs.utk.edu/magma/) (High-performance Scientific Computation)
     * [gRPC](https://github.com/grpc/grpc) (Remote Procedure Calls)
     * [ZeroMQ](https://github.com/zeromq/libzmq) (Messaging Kernel)
 
