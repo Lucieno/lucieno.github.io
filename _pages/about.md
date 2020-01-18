@@ -37,28 +37,12 @@ Work experience
   * Supervisor: [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
   
 
-Languages
+Publications
 ======
-  * Chinese (Native)
-  * English (Fluent)
-
-
-Programming Skills
-======
-  * Programming Languages
-    * Python (Fluent)
-    * C/C++ (Fluent)
-    * Javascript, C#, Java, Go, R, Prolong, PHP, ...
-  * Familiar Frameworks/Libraries
-    * [Pytorch](https://pytorch.org/) (Deep Neural Network & High-Performance Computation)
-    * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Homomorphic Encryption)
-    * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
-    * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
-    * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
-    * [Magma](https://icl.cs.utk.edu/magma/) (High-performance Scientific Computation)
-    * [gRPC](https://github.com/grpc/grpc) (Remote Procedure Calls)
-    * [ZeroMQ](https://github.com/zeromq/libzmq) (Messaging Kernel)
-
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
 Scholarships & Awards
 =====
@@ -78,12 +62,6 @@ Scholarships & Awards
   * [CUHK Mathematic Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
     * Excellent performance on HKDSE
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 <!--
 Talks
 ======
@@ -97,6 +75,32 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+Programming Skills
+======
+  * Programming Languages
+    * Python (Fluent)
+    * C/C++ (Fluent)
+    * Javascript, C#, Java, Go, R, Prolong, PHP, ...
+  * Familiar Frameworks/Libraries
+    * [Pytorch](https://pytorch.org/) (Deep Neural Network & High-Performance Computation)
+    * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Homomorphic Encryption)
+    * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
+    * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
+    * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
+    * [Magma](https://icl.cs.utk.edu/magma/) (High-performance Scientific Computation)
+    * [gRPC](https://github.com/grpc/grpc) (Remote Procedure Calls)
+    * [ZeroMQ](https://github.com/zeromq/libzmq) (Messaging Kernel)
+
+
+Languages
+======
+  * Chinese (Native)
+  * English (Fluent)
+
+
   
 <!--
 Service and leadership
