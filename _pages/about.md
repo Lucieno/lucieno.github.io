@@ -52,7 +52,7 @@ Scholarships & Awards
   * Wu Yee Sun College’s Master’s List 2015/16, 2016/17, 2017/18 
     * Topmost student of each major program in college
   * Faculty’s Dean’s List 2015/16, 2016/17, 2017/18 
-    * Top in the faculty of engineering
+    * Top in the Faculty of Engineering
   * [ELITE Stream Student Scholarship 2017/18](https://www.erg.cuhk.edu.hk/erg/Elite/Scholarship) 
     * Excellent performance on ELITE courses
   * [1978 Mathematics Alumnus Li Sze-lim Scholarship 2017/18](https://www.math.cuhk.edu.hk/student-centre/scholarships/1978-mathematics-alumus-li-sze-lim-scholarships)
