@@ -20,7 +20,7 @@ Tutoring on Research Projects
     * Best Project Award!
 
   * Deep Neural Network in Secure Linux Container with Trusted Processor
-    * Gary Chow, Donald Wong, Final Year Project, 2018/19
+    * Gary Chow, [Donald Wong](http://crypto.ie.cuhk.edu.hk/wph019), Final Year Project, 2018/19
     * Best Final Year Project Awards!
 
   * Improving Latency of Secure Neural Network Inference
