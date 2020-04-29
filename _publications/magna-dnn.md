@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/magma-dnn
 date: 2019-07-01
 venue: 'Practice and Experience in Advanced Research Computing'
-citation: 'D. Nichols, K. Wong, S. Tomov, L. Ng, S. Chen, and A. Gessinger. &quot;MagmaDNN: Accelerated Deep Learning Using MAGMA.&quot; In Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC ’19).'
+citation: 'Nichols, Daniel, Kwai Wong, Stan Tomov, Lucien Ng, Sihan Chen, and Alex Gessinger.  "MagmaDNN: Accelerated deep learning using Magma." Proc. of <i>the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) 2019</i>.  '
 ---
 MagmaDNN is a deep learning framework driven using the highly optimized MAGMA dense linear algebra package. The library offers comparable performance to other popular frameworks, such as TensorFlow, PyTorch, and Theano.
 

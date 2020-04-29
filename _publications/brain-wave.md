@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/brain-wave
 date: 2019-01-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
-citation: 'S. Borhani, J. Kilmarx, D. Saffo, L. Ng, R. Abiri and X. Zhao, &quot;Optimizing Prediction Model for a Noninvasive Brain–Computer Interface Platform Using Channel Selection, Classification, and Regression,&quot; in <i>IEEE Journal of Biomedical and Health Informatics</i>'
+citation: 'Borhani, Soheil, Justin Kilmarx, David Saffo, Lucien Ng, Reza Abiri, and Xiaopeng Zhao. "Optimizing Prediction Model for a Noninvasive Brain – Computer Interface Platform Using Channel Selection, Classification, and Regression." <i>IEEE Journal of Biomedical and Health Informatics</i>, 23, no. 6, 2019.'
 ---
 This article attempts to explore optimal decoding algorithms for an IBK paradigm using EEG signals with application to neural cursor control.
 <!--

@@ -14,7 +14,7 @@ I'm also a resident tutor at [CUHK's Shaw College](http://www.shaw.cuhk.edu.hk/)
 Education
 ======
 * M.Phil. in Information Engineering, The Chinese University of Hong Kong, 2018 - Present
-* B.Sc in Mathematic and Information Engineering, 1st-class Honor, The Chinese University of Hong Kong, 2014 - 2018
+* B.Sc. in Mathematic and Information Engineering, First-class Honours, The Chinese University of Hong Kong, 2014 - 2018
   * Minor in Computer Science
   * [ELITE Stream: Engineering Leadership, Innovation, Technology and Entrepreneurship](https://www.erg.cuhk.edu.hk/erg/Elite)
 
