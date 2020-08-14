@@ -1,5 +1,5 @@
 ---
-title: "Learning Model with Error -- exposing the hidden model of BAYHENN"
+title: "Learning Model with Error -- Exposing the Hidden Model of BAYHENN"
 collection: publications
 permalink: /publication/attack-bnn.md
 date: 2020-05-01

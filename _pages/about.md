@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am a M.Phil. student working on applied cryptography, in particular, privacy-preserving machine learning and cryptocurrencies/blockchains, under the supervision of [Prof. Sherman S.M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/). 
-I'm also a resident tutor at [CUHK's Shaw College](http://www.shaw.cuhk.edu.hk/).
 
 Education
 ======
@@ -24,17 +23,15 @@ Work experience
   * Oak Ridge National Laboratory
   * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
   a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
-  for heterogeneous hardwares
-  * Supervisor: [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
+  for heterogeneous hardwares, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
   and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
   * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
-  for decodiing brain-wave to classify users’ intended computer cursor movement
-  * Supervisors: [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
+  for decodiing brain-wave to classify users’ intended computer cursor movement, 
+  supervised by [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
 * Summer 2016: Research Assistant
   * The Chinese University of Hong Kong
   * A machine learning [library](https://github.com/husky-team/husky/tree/master/lib/ml) 
-  utilizing distributed computation
-  * Supervisor: [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
+  utilizing distributed computation, supervised by [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
   
 
 Publications
