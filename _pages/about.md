@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Phil. student working on applied cryptography, in particular, privacy-preserving machine learning and cryptocurrencies/blockchains, under the supervision of [Prof. Sherman S.M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/). 
+I am a M.Phil. student working on applied cryptography, in particular, privacy-preserving machine learning and cryptocurrencies/blockchains, under the supervision of [Prof. Sherman S. M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/). 
 
 Education
 ======
@@ -34,10 +34,10 @@ Work Experience
 
 Publications
 ======
-  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, L. K. L. Ng, S. S. M. Chow.,
+  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow.,
 "[Learning Model with Error -- exposing the hidden model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf)",
 IJCAI--PRICAI'20
-  * Hoover H. F. Yin, Ka Hei Ng, Xishi Wang, Qi Cao, and Lucien K. L. Ng.,
+  * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, and **L. K. L. Ng.**,
 "[On the Memory Requirements of Block Interleaver for Batched Network Codes](https://2020.ieee-isit-virtual.org/presentation/lecture/memory-requirements-block-interleaver-batched-network-codes)",
 IEEE ISIT'20
   * S. Borhani, J. Kilmarx, D. Saffo, **L. K. L. Ng**, R. Abiri, and X. Zhao, 
