@@ -99,11 +99,11 @@ Tutoring on Research Projects
 ======
   * Secure DNN Training and Inference with Intel SGX 
     * Anna Woo (MIE-Elite), Undergraduate Summer Research Intern, 2018/19
-    * Best Project Award!
+    * [Best Project Award!](https://www.youtube.com/watch?v=3B_15ueTfX8&feature=youtu.be&t=69)
 
   * Deep Neural Network in Secure Linux Container with Trusted Processor
     * Gary Chow, [Donald Wong](http://crypto.ie.cuhk.edu.hk/wph019), Final Year Project, 2018/19
-    * Best Final Year Project Awards!
+    * [Best Final Year Project Awards!](https://www.ie.cuhk.edu.hk/lnews/19-08-30.shtml)
 
   * Improving Latency of Secure Neural Network Inference
     * Nash Chow, Peter Wong, Final Year Project, 2018/19
