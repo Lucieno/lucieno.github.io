@@ -34,28 +34,46 @@ Work Experience
 
 Publications
 ======
+  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, L. K. L. Ng, S. S. M. Chow.,
+"[Learning Model with Error -- exposing the hidden model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf)",
+IJCAI--PRICAI'20
+  * Hoover H. F. Yin, Ka Hei Ng, Xishi Wang, Qi Cao, and Lucien K. L. Ng.,
+"[On the Memory Requirements of Block Interleaver for Batched Network Codes](https://2020.ieee-isit-virtual.org/presentation/lecture/memory-requirements-block-interleaver-batched-network-codes)",
+IEEE ISIT'20
+  * S. Borhani, J. Kilmarx, D. Saffo, **L. K. L. Ng**, R. Abiri, and X. Zhao, 
+"[Optimizing Prediction Model for a Noninvasive Brain-Computer Interface Platform Using Channel Selection, Classification, and Regression](https://www.researchgate.net/publication/330327972_Optimizing_Prediction_Model_for_a_Noninvasive_Brain-Computer_Interface_Platform_Using_Channel_Selection_Classification_and_Regression)",
+IEEE J-BHI'19
+  * N., Daniel, K. Wong, S. Tomov, **L. Ng**, S. Chen, and A. Gessinger,
+"[MagmaDNN: Accelerated Deep Learning Using MAGMA](https://www.researchgate.net/publication/334779041_MagmaDNN_Accelerated_Deep_Learning_Using_MAGMA)",
+PEARC'19
+
+<!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 
 Scholarships & Awards
 =====
-  * [Bronze Award of the ASM Technology Award 2018](https://www.erg.cuhk.edu.hk/erg/node/1657)
+  * [Bronze Award of the ASM Technology Award 2018](https://www.erg.cuhk.edu.hk/erg/node/1657) (HK\$20K & Fully-sponsored Trip to Germany)
     * High-quality final year project in engineering
-    * Fully-sponsored trip to Munich, Germany & a scholarship
   * Wu Yee Sun College’s Master’s List 2015/16, 2016/17, 2017/18 
     * Topmost student of each major program in college
   * Faculty’s Dean’s List 2015/16, 2016/17, 2017/18 
     * Top in the Faculty of Engineering
-  * [ELITE Stream Student Scholarship 2017/18](https://www.erg.cuhk.edu.hk/erg/Elite/Scholarship) 
+  * [ELITE Stream Student Scholarship 2017/18](https://www.erg.cuhk.edu.hk/erg/Elite/Scholarship) (HK\$20K)
     * Excellent performance on ELITE courses
-  * [1978 Mathematics Alumnus Li Sze-lim Scholarship 2017/18](https://www.math.cuhk.edu.hk/student-centre/scholarships/1978-mathematics-alumus-li-sze-lim-scholarships)
+  * [1978 Mathematics Alumnus Li Sze-lim Scholarship 2017/18](https://www.math.cuhk.edu.hk/student-centre/scholarships/1978-mathematics-alumus-li-sze-lim-scholarships) (HK\$25K)
     * Full sponsorship for oversea research
-  * [Wu Yee Sun College’s Academic Excellence Scholarship 2016/17](https://www.wys.cuhk.edu.hk/news/scholarships-for-academic-excellence-201617/?lang=zh)
+  * [Wu Yee Sun College’s Academic Excellence Scholarship 2016/17](https://www.wys.cuhk.edu.hk/news/scholarships-for-academic-excellence-201617/?lang=zh) (hk\$10K)
     * Top 3 students of each faulty in the college
   * [CUHK Mathematic Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
     * Excellent performance on HKDSE
+
+<!---
+    * Fully-sponsored trip to Munich, Germany & a scholarship
+-->
 
 <!--
 Talks
@@ -65,11 +83,30 @@ Talks
   {% endfor %}</ul>
 -->
   
-Teaching
+Teaching Assistant
 ======
+  * [IERG5590 Advanced Topics in Blockchain](https://staff.ie.cuhk.edu.hk/~smchow/5590/) Graduate Course, Spring 2020
+    * [Blog-like tutorials](https://app.gitbook.com/@lucieno/s/ierg5590-tutorials) for programming smart contracts
+  * [IERG 5310 Security and Privacy in Cyber Systems](https://staff.ie.cuhk.edu.hk/~smchow/5310/) CUHK Graduate Course, Fall 2018
+
+<!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+
+Tutoring on Research Projects
+======
+  * Secure DNN Training and Inference with Intel SGX 
+    * Anna Woo (MIE-Elite), Undergraduate Summer Research Intern, 2018/19
+    * Best Project Award!
+
+  * Deep Neural Network in Secure Linux Container with Trusted Processor
+    * Gary Chow, [Donald Wong](http://crypto.ie.cuhk.edu.hk/wph019), Final Year Project, 2018/19
+    * Best Final Year Project Awards!
+
+  * Improving Latency of Secure Neural Network Inference
+    * Nash Chow, Peter Wong, Final Year Project, 2018/19
 
 Programming Skill
 ======
