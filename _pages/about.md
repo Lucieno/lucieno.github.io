@@ -17,10 +17,9 @@ Education
   * Minor in Computer Science
   * [ELITE Stream: Engineering Leadership, Innovation, Technology and Entrepreneurship](https://www.erg.cuhk.edu.hk/erg/Elite)
 
-Work experience
+Work Experience
 ======
-* Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17)
-  * Oak Ridge National Laboratory
+* Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17) @ Oak Ridge National Laboratory
   * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
   a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
   for heterogeneous hardwares, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
@@ -28,9 +27,8 @@ Work experience
   * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
   for decodiing brain-wave to classify users’ intended computer cursor movement, 
   supervised by [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
-* Summer 2016: Research Assistant
-  * The Chinese University of Hong Kong
-  * A machine learning [library](https://github.com/husky-team/husky/tree/master/lib/ml) 
+* Summer 2016: Research Assistant @ The Chinese University of Hong Kong
+  * A [machine learning library](https://github.com/husky-team/husky/tree/master/lib/ml) 
   utilizing distributed computation, supervised by [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
   
 
@@ -73,16 +71,33 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-
-Programming Skills
+Programming Skill
 ======
   * Programming Languages
     * Python (Fluent)
     * C/C++ (Fluent)
     * Javascript, C#, Java, Go, R, Prolong, PHP, ...
   * Familiar Frameworks/Libraries
-    * [Pytorch](https://pytorch.org/) (Deep Neural Network & High-Performance Computation)
+    * [PyTorch](https://pytorch.org/) (Deep Neural Network & High-Performance Computation)
+    * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Homomorphic Encryption)
+    * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
+    * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
+    * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
+    * [gRPC](https://github.com/grpc/grpc) (Remote Procedure Calls)
+
+
+<!--
+Languages
+======
+  * Chinese (Native)
+  * English (Fluent)
+-->
+
+  
+<!--
+
+  * Familiar Frameworks/Libraries
+    * [PyTorch](https://pytorch.org/) (Deep Neural Network & High-Performance Computation)
     * [Microsoft SEAL](https://github.com/Microsoft/SEAL) (Homomorphic Encryption)
     * [Intel SGX](https://software.intel.com/en-us/sgx) (Trusted Execution Enviroment)
     * [Intel TBB](https://github.com/intel/tbb) (Multicore Programming)
@@ -91,15 +106,6 @@ Programming Skills
     * [gRPC](https://github.com/grpc/grpc) (Remote Procedure Calls)
     * [ZeroMQ](https://github.com/zeromq/libzmq) (Messaging Kernel)
 
-
-Languages
-======
-  * Chinese (Native)
-  * English (Fluent)
-
-
-  
-<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
