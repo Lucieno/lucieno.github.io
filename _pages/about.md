@@ -37,7 +37,7 @@ Publications
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow.,
 "[Learning Model with Error -- exposing the hidden model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf)",
 IJCAI--PRICAI'20
-  * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, and **L. K. L. Ng.**,
+  * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, and **L. K. L. Ng**,
 "[On the Memory Requirements of Block Interleaver for Batched Network Codes](https://2020.ieee-isit-virtual.org/presentation/lecture/memory-requirements-block-interleaver-batched-network-codes)",
 IEEE ISIT'20
   * S. Borhani, J. Kilmarx, D. Saffo, **L. K. L. Ng**, R. Abiri, and X. Zhao, 
@@ -86,7 +86,7 @@ Talks
 Teaching Assistant
 ======
   * [IERG5590 Advanced Topics in Blockchain](https://staff.ie.cuhk.edu.hk/~smchow/5590/), Spring 2020
-    * [Blog-like tutorials](https://app.gitbook.com/@lucieno/s/ierg5590-tutorials) for smart contracts programming
+    * [Blog-like tutorials](https://app.gitbook.com/@lucieno/s/ierg5590-tutorials) for smart contract programming
   * [IERG 5310 Security and Privacy in Cyber Systems](https://staff.ie.cuhk.edu.hk/~smchow/5310/), Fall 2018
 
 <!---
@@ -108,7 +108,7 @@ Tutoring on Research Projects
   * Improving Latency of Secure Neural Network Inference
     * Nash Chow, Peter Wong, Final Year Project, 2018/19
 
-Programming Skill
+Programming Skills
 ======
   * Programming Languages
     * Python (Fluent)
@@ -122,22 +122,26 @@ Programming Skill
     * [CUDA](https://developer.nvidia.com/cuda-zone) (GPU Programming)
     * [gRPC](https://github.com/grpc/grpc) (Remote Procedure Calls)
 
-Academic Reviewer
+Academic Paper (Sub-)Reviewer
 =====
-  * [Usenix Security 2021](https://www.usenix.org/conference/usenixsecurity21), 
-[CRYPTO 2019](https://crypto.iacr.org/201s), 
-[AsiaCCS 2020](https://asiaccs2020.cs.nthu.edu.tw/), 
-[ESORIC 2020](http://esorics2020.sccs.surrey.ac.uk/), 
-[PETS 21](https://petsymposium.org/cfp21.php)
-  * [SecureComm 2019](https://securecomm.eai-conferences.org/2019), 
-[InfoCom 2019](https://infocom2019.ieee-infocom.org/),
-[TheWeb 2019](http://www2019.thewebconf.org/), 
-[CNS 2020](https://cns2020.ieee-cns.org/),
-ACNS [2019](https://www.acns19.com/) - [2020](https://sites.google.com/di.uniroma1.it/ACNS2020)
-  * [IJIS 2019](https://www.springer.com/journal/10207), 
-[ICDC 2020](https://icdcs2020.sg/), 
-[AfricaCrypt 2019](https://link.springer.com/book/10.1007/978-3-030-23696-0),
-[ISPEC 2019](https://ccs.research.utar.edu.my/ispec2019/)
+  * 2021: 
+[Usenix Security](https://www.usenix.org/conference/usenixsecurity21), 
+[PETS](https://petsymposium.org/cfp21.php)
+  * 2020: 
+[AsiaCCS](https://asiaccs2020.cs.nthu.edu.tw/), 
+[ESORIC](http://esorics2020.sccs.surrey.ac.uk/), 
+[ICDC](https://icdcs2020.sg/), 
+[CNS](https://cns2020.ieee-cns.org/),
+[ACNS](https://sites.google.com/di.uniroma1.it/ACNS2020)
+  * 2019: 
+[CRYPTO](https://crypto.iacr.org/201s), 
+[SecureComm](https://securecomm.eai-conferences.org/2019), 
+[InfoCom](https://infocom2019.ieee-infocom.org/),
+[TheWeb](http://www2019.thewebconf.org/), 
+[ACNS](https://www.acns19.com/),
+[IJIS](https://www.springer.com/journal/10207), 
+[AfricaCrypt](https://link.springer.com/book/10.1007/978-3-030-23696-0),
+[ISPEC](https://ccs.research.utar.edu.my/ispec2019/)
 
 <!--
 Languages
