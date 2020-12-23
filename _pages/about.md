@@ -34,6 +34,10 @@ Work Experience
 
 Publications
 ======
+  * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao , 
+	"Goten: GPU-Outsourcing Trusted Execution of Neural Network Training", 
+  in Proceedings of AAAI-21, to appear.
+    * [Code](https://github.com/goten-team/Goten)
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow.,
 "[Learning Model with Error -- exposing the hidden model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf)",
 IJCAI--PRICAI'20
@@ -125,6 +129,7 @@ Programming Skills
 Academic Paper (Sub-)Reviewer
 =====
   * 2021: 
+[TheWeb](https://www2021.thewebconf.org/), 
 [Usenix Security](https://www.usenix.org/conference/usenixsecurity21), 
 [PETS](https://petsymposium.org/cfp21.php)
   * 2020: 
