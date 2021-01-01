@@ -13,7 +13,7 @@ I am a M.Phil. student working on applied cryptography, in particular, privacy-p
 Education
 ======
 * M.Phil. in Information Engineering, The Chinese University of Hong Kong, 2018 - Present
-* B.Sc. in Mathematic and Information Engineering, First-class Honours, The Chinese University of Hong Kong, 2014 - 2018
+* B.Sc. in Mathematics and Information Engineering, First-class Honours, The Chinese University of Hong Kong, 2014 - 2018
   * Minor in Computer Science
   * [ELITE Stream: Engineering Leadership, Innovation, Technology and Entrepreneurship](https://www.erg.cuhk.edu.hk/erg/Elite)
 
@@ -25,7 +25,7 @@ Work Experience
   for heterogeneous hardwares, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
   and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
   * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
-  for decodiing brain-wave to classify users’ intended computer cursor movement, 
+  for decoding brain-wave to classify users’ intended computer cursor movement, 
   supervised by [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
 * Summer 2016: Research Assistant @ The Chinese University of Hong Kong
   * A [machine learning library](https://github.com/husky-team/husky/tree/master/lib/ml) 
