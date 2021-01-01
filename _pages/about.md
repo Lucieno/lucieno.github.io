@@ -35,7 +35,7 @@ Work Experience
 Publications
 ======
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao , 
-	"Goten: GPU-Outsourcing Trusted Execution of Neural Network Training", 
+	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)", 
   in Proceedings of AAAI-21, to appear.
     * [Code](https://github.com/goten-team/Goten)
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow.,
