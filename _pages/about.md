@@ -36,9 +36,9 @@ Publications
 ======
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao , 
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)", 
-  in Proceedings of AAAI '21 (Acceptance rate: 21.3%)
+  in Proceedings of AAAI '21 (Acceptance rate: 21.3% = 1692/7911)
     * [Code](https://github.com/goten-team/Goten)
-  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow.,
+  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow,
 "[Learning Model with Error -- exposing the hidden model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf)",
 IJCAI--PRICAI '20
   * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, and **L. K. L. Ng**,
@@ -47,7 +47,7 @@ IEEE ISIT '20
   * S. Borhani, J. Kilmarx, D. Saffo, **L. Ng**, R. Abiri, and X. Zhao, 
 "[Optimizing Prediction Model for a Noninvasive Brain-Computer Interface Platform Using Channel Selection, Classification, and Regression](https://www.researchgate.net/publication/330327972_Optimizing_Prediction_Model_for_a_Noninvasive_Brain-Computer_Interface_Platform_Using_Channel_Selection_Classification_and_Regression)",
 IEEE J-BHI '19
-  * N., Daniel, K. Wong, S. Tomov, **L. Ng**, S. Chen, and A. Gessinger,
+  * N. Daniel, K. Wong, S. Tomov, **L. Ng**, S. Chen, and A. Gessinger,
 "[MagmaDNN: Accelerated Deep Learning Using MAGMA](https://www.researchgate.net/publication/334779041_MagmaDNN_Accelerated_Deep_Learning_Using_MAGMA)",
 PEARC '19
 
@@ -73,7 +73,7 @@ Scholarships & Awards
   * [Wu Yee Sun College’s Academic Excellence Scholarship 2016/17](https://www.wys.cuhk.edu.hk/news/scholarships-for-academic-excellence-201617/?lang=zh) (HKD 10K)
     * Top 3 students of each faulty in the college
   * [CUHK Mathematic Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
-    * Excellent performance on HKDSE
+    * $5^{**}$ in both Maths Core & M2 in HKDSE
 
 <!---
     * Fully-sponsored trip to Munich, Germany & a scholarship
