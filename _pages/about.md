@@ -22,7 +22,7 @@ Work Experience
 * Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17) @ Oak Ridge National Laboratory
   * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
   a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
-  for heterogeneous hardwares, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
+  for GPUs and multi-core CPsU hardwares, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
   and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
   * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
   for decoding brain-wave to classify users’ intended computer cursor movement, 
@@ -34,21 +34,24 @@ Work Experience
 
 Publications
 ======
+  * **L. K. L. Ng**, S. S. M. Chow,
+	"GForce: GPU-Friendly Oblivious and Rapid Classification Engine," 
+	conditionally accepted by Usenix Security '21
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao, 
-	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training,](./files/goten.pdf)"
+	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf),"
   in Proceedings of AAAI '21 (Acceptance rate: 21.3% = 1692/7911)
     * [Code](https://github.com/goten-team/Goten)
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow,
-"[Learning Model with Error -- exposing the hidden model of BAYHENN,](https://www.ijcai.org/Proceedings/2020/0488.pdf)"
-IJCAI--PRICAI '20
+"[Learning Model with Error -- Exposing the Hidden Model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf),"
+IJCAI '20
   * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, and **L. K. L. Ng**,
-"[On the Memory Requirements of Block Interleaver for Batched Network Codes,](https://2020.ieee-isit-virtual.org/presentation/lecture/memory-requirements-block-interleaver-batched-network-codes)"
+"[On the Memory Requirements of Block Interleaver for Batched Network Codes](https://2020.ieee-isit-virtual.org/presentation/lecture/memory-requirements-block-interleaver-batched-network-codes),"
 IEEE ISIT '20
   * S. Borhani, J. Kilmarx, D. Saffo, **L. Ng**, R. Abiri, and X. Zhao, 
-"[Optimizing Prediction Model for a Noninvasive Brain-Computer Interface Platform Using Channel Selection, Classification, and Regression,](https://www.researchgate.net/publication/330327972_Optimizing_Prediction_Model_for_a_Noninvasive_Brain-Computer_Interface_Platform_Using_Channel_Selection_Classification_and_Regression)"
+"[Optimizing Prediction Model for a Noninvasive Brain-Computer Interface Platform Using Channel Selection, Classification, and Regression](https://www.researchgate.net/publication/330327972_Optimizing_Prediction_Model_for_a_Noninvasive_Brain-Computer_Interface_Platform_Using_Channel_Selection_Classification_and_Regression),"
 IEEE J-BHI '19
   * N. Daniel, K. Wong, S. Tomov, **L. Ng**, S. Chen, and A. Gessinger,
-"[MagmaDNN: Accelerated Deep Learning Using MAGMA,](https://www.researchgate.net/publication/334779041_MagmaDNN_Accelerated_Deep_Learning_Using_MAGMA)"
+"[MagmaDNN: Accelerated Deep Learning Using MAGMA](https://www.researchgate.net/publication/334779041_MagmaDNN_Accelerated_Deep_Learning_Using_MAGMA),"
 PEARC '19
 
 <!---
@@ -72,8 +75,8 @@ Scholarships & Awards
     * Full sponsorship for oversea research
   * [Wu Yee Sun College’s Academic Excellence Scholarship 2016/17](https://www.wys.cuhk.edu.hk/news/scholarships-for-academic-excellence-201617/?lang=zh) (HKD 10K)
     * Top 3 students of each faulty in the college
-  * [CUHK Mathematic Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
-    * $5^{**}$ in both Maths Core & M2 in HKDSE
+  * [CUHK Mathematics Scholarship 2014/15](https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship)
+    * $5^{**}$ (the highest attainable grade) in both Maths Core & M2 in [HKDSE](https://www.hkeaa.edu.hk/en/hkdse/introduction/)
 
 <!---
     * Fully-sponsored trip to Munich, Germany & a scholarship
