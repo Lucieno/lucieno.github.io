@@ -22,14 +22,13 @@ Work Experience
 * Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17) @ Oak Ridge National Laboratory
   * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
   a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
-  for GPU and multi-core CPU, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
+  for multi-core CPU and GPU, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
   and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
-  * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
-  for decoding brain-wave to classify users’ intended computer cursor movement, 
+  * Project 2: [Brain-wave analysis for computer cursors](https://ieeexplore.ieee.org/document/8610180) 
   supervised by [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
 * Summer 2016: Research Assistant @ The Chinese University of Hong Kong
-  * A [machine learning library](https://github.com/husky-team/husky/tree/master/lib/ml) 
-  utilizing distributed computation, supervised by [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
+  * Implemented [a library for regression](https://github.com/husky-team/husky/tree/master/lib/ml) for distributed computation systems, 
+	supervised by [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
   
 
 Publications
