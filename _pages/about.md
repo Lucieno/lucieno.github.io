@@ -22,7 +22,7 @@ Work Experience
 * Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17) @ Oak Ridge National Laboratory
   * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
   a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
-  for GPUs and multi-core CPsU hardwares, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
+  for GPU and multi-core CPU, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
   and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
   * Project 2: [Models](https://ieeexplore.ieee.org/document/8610180) 
   for decoding brain-wave to classify users’ intended computer cursor movement, 
