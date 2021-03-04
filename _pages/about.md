@@ -34,11 +34,11 @@ Work Experience
 Publications
 ======
   * **L. K. L. Ng** and S. S. M. Chow <br />
-	"GForce: GPU-Friendly Oblivious and Rapid Classification Engine" <br />
-	Conditionally accepted by Usenix Security '21
+	"GPU-Friendly Oblivious and Rapid Neural Network Inference" <br />
+	To appear in Usenix Security '21
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
-  To appear in AAAI '21 (Acceptance rate: 21.3% = 1692/7911)
+  [AAAI](https://dblp.org/db/conf/aaai/aaai2020.html) '21 (Acceptance rate: 21.3% = 1692/7911)
     * [Code](https://github.com/goten-team/Goten), [Slides](./files/goten-slides.pdf), and [Poster](./files/goten-poster.pdf)
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, and S. S. M. Chow <br />
 	"[Learning Model with Error -- Exposing the Hidden Model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf),"
