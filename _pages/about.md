@@ -33,9 +33,12 @@ Work Experience
 
 Publications
 ======
+  * **L. K. L. Ng**, S. S. M. Chow, D. P. H. Wong, and A. P. Y. Woo <br />
+	"LDSP: Shopping with Cryptocurrency Privately and Quickly under Consortium Leadership" <br />
+	To appear in [ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
   * **L. K. L. Ng** and S. S. M. Chow <br />
 	"GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference" <br />
-	To appear in Usenix Security '21
+	To appear in [Usenix Security '21](https://www.usenix.org/conference/usenixsecurity21)
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
   [AAAI](https://dblp.org/db/conf/aaai/aaai2020.html) '21 (Acceptance rate: 21.3% = 1692/7911)
@@ -137,7 +140,7 @@ Academic Paper (Sub-)Reviewer
   * 2020: 
 [AsiaCCS](https://asiaccs2020.cs.nthu.edu.tw/), 
 [ESORIC](http://esorics2020.sccs.surrey.ac.uk/), 
-[ICDC](https://icdcs2020.sg/), 
+[ICDCS](https://icdcs2020.sg/), 
 [CNS](https://cns2020.ieee-cns.org/),
 [ACNS](https://sites.google.com/di.uniroma1.it/ACNS2020)
   * 2019: 
