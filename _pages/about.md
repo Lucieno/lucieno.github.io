@@ -37,7 +37,7 @@ Publications
 	"LDSP: Shopping with Cryptocurrency Privately and Quickly under Consortium Leadership" <br />
 	To appear in [ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
   * **L. K. L. Ng** and S. S. M. Chow <br />
-	"GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference" <br />
+	"[GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference](https://www.usenix.org/system/files/sec21fall-ng.pdf)" <br />
 	To appear in [Usenix Security '21](https://www.usenix.org/conference/usenixsecurity21)
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
