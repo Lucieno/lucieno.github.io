@@ -33,6 +33,9 @@ Work Experience
 
 Publications
 ======
+  * H. H. F. Yin, X. Wang, K. H. Ng, R. W. F. Lai, **L. K. L. Ng**, J. P. K. Ma <br />
+	"On Multi-Channel Huffman Codes for Asymmetric-Alphabet Channels" <br />
+	To appear in [ISIT '21](https://2021.ieee-isit.org/)
   * **L. K. L. Ng**, S. S. M. Chow, D. P. H. Wong, and A. P. Y. Woo <br />
 	"LDSP: Shopping with Cryptocurrency Privately and Quickly under Consortium Leadership" <br />
 	To appear in [ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
