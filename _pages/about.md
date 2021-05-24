@@ -45,7 +45,8 @@ Publications
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
   [AAAI](https://dblp.org/db/conf/aaai/aaai2020.html) '21 (Acceptance rate: 21.3% = 1692/7911)
-    * [Code](https://github.com/goten-team/Goten), [Slides](./files/goten-slides.pdf), and [Poster](./files/goten-poster.pdf)
+    * [Video](https://slideslive.com/38951043), [Slides](./files/goten-slides.pdf), 
+		[Poster](./files/goten-poster.pdf), and [Code](https://github.com/goten-team/Goten)
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, and S. S. M. Chow <br />
 	"[Learning Model with Error -- Exposing the Hidden Model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf),"
 	IJCAI '20
