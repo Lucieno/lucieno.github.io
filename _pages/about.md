@@ -38,7 +38,8 @@ Publications
 	To appear in [ISIT '21](https://2021.ieee-isit.org/)
   * **L. K. L. Ng**, S. S. M. Chow, D. P. H. Wong, and A. P. Y. Woo <br />
 	"LDSP: Shopping with Cryptocurrency Privately and Quickly under Consortium Leadership" <br />
-	To appear in [ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
+	[ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
+	* [Slides](./files/ldsp-slides.pdf)
   * **L. K. L. Ng** and S. S. M. Chow <br />
 	"[GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference](https://www.usenix.org/system/files/sec21fall-ng.pdf)" <br />
 	To appear in [Usenix Security '21](https://www.usenix.org/conference/usenixsecurity21)
