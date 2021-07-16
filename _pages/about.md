@@ -36,29 +36,29 @@ Publications
   * H. H. F. Yin, X. Wang, K. H. Ng, R. W. F. Lai, **L. K. L. Ng**, J. P. K. Ma <br />
 	"[On Multi-Channel Huffman Codes for Asymmetric-Alphabet Channels](https://arxiv.org/abs/2105.03606)" <br />
 	[ISIT '21](https://2021.ieee-isit.org/)
-  * **L. K. L. Ng**, S. S. M. Chow, D. P. H. Wong, and A. P. Y. Woo <br />
+  * **L. K. L. Ng**, S. S. M. Chow, D. P. H. Wong, A. P. Y. Woo <br />
 	"LDSP: Shopping with Cryptocurrency Privately and Quickly under Consortium Leadership" <br />
 	[ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
 	* [Slides](./files/ldsp-slides.pdf)
-  * **L. K. L. Ng** and S. S. M. Chow <br />
+  * **L. K. L. Ng**, S. S. M. Chow <br />
 	"[GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference](https://www.usenix.org/system/files/sec21fall-ng.pdf)" <br />
 	To appear in [Usenix Security '21](https://www.usenix.org/conference/usenixsecurity21)
 	* [Slides](./files/gforce-slides.pdf) and [Code](https://github.com/Lucieno/gforce-public)
-  * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, and Y. Zhao <br />
+  * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
   [AAAI](https://dblp.org/db/conf/aaai/aaai2020.html) '21 (Acceptance rate: 21.3% = 1692/7911)
     * [Video](https://slideslive.com/38951043), [Slides](./files/goten-slides.pdf), 
 		[Poster](./files/goten-poster.pdf), and [Code](https://github.com/goten-team/Goten)
-  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, and S. S. M. Chow <br />
+  * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow <br />
 	"[Learning Model with Error -- Exposing the Hidden Model of BAYHENN](https://www.ijcai.org/Proceedings/2020/0488.pdf),"
 	IJCAI '20
-  * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, and **L. K. L. Ng** <br />
+  * H. H. F. Yin, K. H. Ng, X. Wang, Q. Cao, **L. K. L. Ng** <br />
 "[On the Memory Requirements of Block Interleaver for Batched Network Codes](https://2020.ieee-isit-virtual.org/presentation/lecture/memory-requirements-block-interleaver-batched-network-codes),"
 IEEE ISIT '20
-  * S. Borhani, J. Kilmarx, D. Saffo, **L. Ng**, R. Abiri, and X. Zhao <br />
+  * S. Borhani, J. Kilmarx, D. Saffo, **L. Ng**, R. Abiri, X. Zhao <br />
 "[Optimizing Prediction Model for a Noninvasive Brain-Computer Interface Platform Using Channel Selection, Classification, and Regression](https://www.researchgate.net/publication/330327972_Optimizing_Prediction_Model_for_a_Noninvasive_Brain-Computer_Interface_Platform_Using_Channel_Selection_Classification_and_Regression),"
 IEEE J-BHI '19
-  * N. Daniel, K. Wong, S. Tomov, **L. Ng**, S. Chen, and A. Gessinger <br />
+  * N. Daniel, K. Wong, S. Tomov, **L. Ng**, S. Chen, A. Gessinger <br />
 "[MagmaDNN: Accelerated Deep Learning Using MAGMA](https://www.researchgate.net/publication/334779041_MagmaDNN_Accelerated_Deep_Learning_Using_MAGMA),"
 PEARC '19
 
