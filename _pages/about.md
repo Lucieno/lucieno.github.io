@@ -17,20 +17,6 @@ Education
   * Minor in Computer Science
   * [ELITE Stream: Engineering Leadership, Innovation, Technology and Entrepreneurship](https://www.erg.cuhk.edu.hk/erg/Elite)
 
-Work Experience
-======
-* Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17) @ Oak Ridge National Laboratory
-  * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
-  a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
-  for multi-core CPU and GPU, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
-  and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
-  * Project 2: [Brain-wave analysis for computer cursors](https://ieeexplore.ieee.org/document/8610180) 
-  supervised by [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
-* Summer 2016: Research Assistant @ The Chinese University of Hong Kong
-  * Implemented [a library for regression](https://github.com/husky-team/husky/tree/master/lib/ml) for distributed computation systems, 
-	supervised by [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
-  
-
 Publications
 ======
   * H. H. F. Yin, X. Wang, K. H. Ng, R. W. F. Lai, **L. K. L. Ng**, J. P. K. Ma <br />
@@ -46,7 +32,7 @@ Publications
 	* [Video](https://www.usenix.org/conference/usenixsecurity21/presentation/ng), [Slides](./files/gforce-slides.pdf), and [Code](https://github.com/Lucieno/gforce-public)
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
-  [AAAI](https://dblp.org/db/conf/aaai/aaai2020.html) '21 (Acceptance rate: 21.3% = 1692/7911)
+  [AAAI '21](https://dblp.org/db/conf/aaai/aaai2020.html) (Acceptance rate: 21.3% = 1692/7911)
     * [Video](https://slideslive.com/38951043), [Slides](./files/goten-slides.pdf), 
 		[Poster](./files/goten-poster.pdf), and [Code](https://github.com/goten-team/Goten)
   * H. W. H. Wong, J. P. K. Ma, D. P. H. Wong, **L. K. L. Ng**, S. S. M. Chow <br />
@@ -68,6 +54,19 @@ PEARC '19
   {% endfor %}</ul>
 -->
   
+Work Experience
+======
+* Summer 2017: [Research Assistant](https://www.jics.utk.edu/recsem-reu/recsem17) @ Oak Ridge National Laboratory
+  * Project 1: [Magma-DNN](http://icl.utk.edu/projectsfiles/magma/pubs/71-MagmaDNN.pdf), 
+  a high-performance DNN [library](https://bitbucket.org/icl/magmadnn/src/master/) 
+  for multi-core CPU and GPU, supervised by [Prof. Stanimire Tomov](http://www.icl.utk.edu/~tomov/) 
+  and [Prof. Kwai Wong](https://mabe.utk.edu/people/kwai-l-wong/)
+  * Project 2: [Brain-wave analysis for computer cursors](https://ieeexplore.ieee.org/document/8610180) 
+  supervised by [Prof. Xiaopeng Zhao](https://mabe.utk.edu/people/xiaopeng-zhao/)
+* Summer 2016: Research Assistant @ The Chinese University of Hong Kong
+  * Implemented [a library for regression](https://github.com/husky-team/husky/tree/master/lib/ml) for distributed computation systems, 
+	supervised by [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
+
 
 Scholarships & Awards
 =====
