@@ -29,7 +29,7 @@ Publications
   * **L. K. L. Ng**, S. S. M. Chow <br />
 	"[GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference](https://www.usenix.org/system/files/sec21fall-ng.pdf)" <br />
 	[Usenix Security '21](https://www.usenix.org/conference/usenixsecurity21)
-	* [Video](https://www.usenix.org/conference/usenixsecurity21/presentation/ng), [Slides](./files/gforce-slides.pdf), and [Code](https://github.com/Lucieno/gforce-public)
+	* [Video](https://www.youtube.com/watch?v=CppQaVtCOBw), [Slides](./files/gforce-slides.pdf), and [Code](https://github.com/Lucieno/gforce-public)
   * **L. K. L. Ng**, S. S. M. Chow, A. P. Y. Woo, D. P. H. Wong, Y. Zhao <br />
 	"[Goten: GPU-Outsourcing Trusted Execution of Neural Network Training](./files/goten.pdf)" <br />
   [AAAI '21](https://dblp.org/db/conf/aaai/aaai2020.html) (Acceptance rate: 21.3% = 1692/7911)
