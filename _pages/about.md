@@ -25,7 +25,7 @@ Publications
   * **L. K. L. Ng**, S. S. M. Chow, D. P. H. Wong, A. P. Y. Woo <br />
 	"LDSP: Shopping with Cryptocurrency Privately and Quickly under Consortium Leadership" <br />
 	[ICDCS '21](https://icdcs2021.us/cfp-html) (Acceptance rate: 19.8%)
-	* [Slides](./files/ldsp-slides.pdf)
+	* [Slides](./files/ldsp-slides.pdf), [Video](https://www.youtube.com/watch?v=-HU80cG1SwE)
   * **L. K. L. Ng**, S. S. M. Chow <br />
 	"[GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference](https://www.usenix.org/system/files/sec21fall-ng.pdf)" <br />
 	[Usenix Security '21](https://www.usenix.org/conference/usenixsecurity21)
