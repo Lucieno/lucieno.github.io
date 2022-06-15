@@ -5,3 +5,5 @@ Gemfile.lock
 .swp
 vendor/
 .jekyll-metadata
+
+node_modules
