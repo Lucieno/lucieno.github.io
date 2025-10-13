@@ -10687,13 +10687,47 @@ a {
   color: #fff;
 }
 
-.propic {
+.propic-wrapper {
   float: right;
   width: 150px;
   margin-left: 30px;
   margin-right: 30px;
+  cursor: pointer;
+}
+
+.propic-wrapper:focus-visible {
+  outline: 2px solid #f2f3f3;
+  outline-offset: 4px;
+}
+
+.propic-photo {
+  display: block;
+  width: 100%;
   border: 3px solid #f2f3f3;
   border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.propic-qr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border: 3px solid #f2f3f3;
+  border-radius: 24px;
+  background-color: #ffffff;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.propic-qr canvas {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+}
+
+.propic-hidden {
+  display: none !important;
 }
 
 .page-header p {
