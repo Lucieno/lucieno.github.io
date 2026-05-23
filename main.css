@@ -12613,6 +12613,23 @@ a {
   margin-bottom: 5px;
 }
 
+.tldr-box {
+  background-color: #f5f0d6;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.tldr-hidden {
+  display: none;
+}
+
+.tldr-content {
+  margin-bottom: 5px;
+}
+
 .paper .btn {
   padding: 2.4px 9.6px;
   font-size: 12.5px;
