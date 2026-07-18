@@ -127,7 +127,7 @@ usenix security, icdcs, aaai">
                     <p class="author">
                         <b>Lucien K. L. Ng</b>, Peter Rindal, Akash Shah
                     </p>
-                    <p class="venue">Manuscript</p>
+                    <p class="venue">ACM CCS 2025</p>
                     <a type="button" class="btn btn-outline-primary" href="https://eprint.iacr.org/2026/925">Full
                         Version</a>
                     <a type="button" class="btn btn-outline-primary" href="https://github.com/osu-crypto/libOTe">Code</a>
@@ -188,6 +188,27 @@ usenix security, icdcs, aaai">
                     <a type="button" class="btn btn-outline-primary" href="https://arxiv.org/abs/2503.04549">Full
                         Version</a>
                     <a type="button" class="btn btn-outline-primary" href="./files/pot-slides.pdf">Slides</a>
+                    <a type="button" class="btn btn-outline-primary" onclick="toggleTldr('tldr-pot')">TL;DR</a>
+                    <div id="tldr-pot" class="tldr-box tldr-hidden">
+                        <div class="tldr-content">
+                            <strong>Problem:</strong> Powers-of-Tau (PoT) parameters are the cornerstone of KZG-based zk-SNARKs and
+                            many blockchain applications. Yet, generating PoT parameters requires a <em>trusted setup</em> ceremony with as many
+                            contributors as possible.
+                            Hosting the ceremony on a smart contract can attract more contributors and resist censorship, but
+                            verifying each contribution on-chain requires so much gas that it deters contributors and limits the parameter size.
+                        </div>
+                        <div class="tldr-content">
+                            <strong>Result:</strong> We propose Lite-PoT, which makes participation in the ceremony cheap via two
+                            mechanisms: (1) a fraud-proof mechanism in which the contract optimistically accepts updates
+                            and a challenger can cheaply revert an invalid one, reducing the per-contribution cost by an order of magnitude;
+                            (2) aggregatable update proofs that batch many off-chain contributions into one
+                            proof that can be verified on-chain at constant gas cost, thereby amortizing that cost across contributions.
+                        </div>
+                        <div class="tldr-content">
+                            <strong>Implication:</strong> Cheaper participation attracts more contributors and supports larger
+                            parameters, boosting users' confidence in the security of PoT-based applications.
+                        </div>
+                    </div>
                 </div>
             </li>
 

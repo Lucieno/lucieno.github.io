@@ -7,3 +7,7 @@ vendor/
 .jekyll-metadata
 
 node_modules
+.hf-cache/
+tmp/
+transcripts/
+scripts/
