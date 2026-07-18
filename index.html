@@ -192,21 +192,21 @@ usenix security, icdcs, aaai">
                     <div id="tldr-pot" class="tldr-box tldr-hidden">
                         <div class="tldr-content">
                             <strong>Problem:</strong> Powers-of-Tau (PoT) parameters are the cornerstone of KZG-based zk-SNARKs and
-                            many blockchain applications. Yet, generating PoT parameters requires a <em>trusted setup</em> ceremony with as many
-                            contributors as possible.
+                            many blockchain applications. Yet, generating PoT parameters requires a <em>trusted setup</em> ceremony
+                            that should involve as many contributors as possible.
                             Hosting the ceremony on a smart contract can attract more contributors and resist censorship, but
-                            verifying each contribution on-chain requires so much gas that it deters contributors and limits the parameter size.
+                            the high gas cost of verifying each contribution on-chain deters contributors and limits parameter size.
                         </div>
                         <div class="tldr-content">
-                            <strong>Result:</strong> We propose Lite-PoT, which makes participation in the ceremony cheap via two
-                            mechanisms: (1) a fraud-proof mechanism in which the contract optimistically accepts updates
-                            and a challenger can cheaply revert an invalid one, reducing the per-contribution cost by an order of magnitude;
-                            (2) aggregatable update proofs that batch many off-chain contributions into one
-                            proof that can be verified on-chain at constant gas cost, thereby amortizing that cost across contributions.
+                            <strong>Result:</strong> We propose Lite-PoT, which makes participation in the ceremony inexpensive through
+                            two mechanisms: (1) a fraud-proof mechanism that allows the contract to accept updates optimistically;
+                            <!-- and a challenger can cheaply revert an invalid one, reducing the per-contribution cost by an order of magnitude; -->
+                            (2) aggregatable update proofs that combine many off-chain contributions into a single proof, amortizing the gas cost.
+                            <!-- that can be verified on-chain at constant gas cost, thereby amortizing that cost across contributions. -->
                         </div>
                         <div class="tldr-content">
-                            <strong>Implication:</strong> Cheaper participation attracts more contributors and supports larger
-                            parameters, boosting users' confidence in the security of PoT-based applications.
+                            <strong>Implication:</strong> Less expensive participation attracts more contributors and supports larger
+                            parameter sets, strengthening users' confidence in the security of PoT-based applications.
                         </div>
                     </div>
                 </div>
@@ -224,6 +224,27 @@ usenix security, icdcs, aaai">
                     <a type="button" class="btn btn-outline-primary" href="https://eprint.iacr.org/2025/1685">Full
                         Version</a>
                     <a type="button" class="btn btn-outline-primary" href="./files/toss-slides.pdf">Slides</a>
+                    <a type="button" class="btn btn-outline-primary" onclick="toggleTldr('tldr-toss')">TL;DR</a>
+                    <div id="tldr-toss" class="tldr-box tldr-hidden">
+                        <div class="tldr-content">
+                            <strong>Problem:</strong> Garbled private information retrieval (GPIR) lets two parties retrieve an entry
+                            from a public table using a private index within a garbled-circuit computation. How can we reduce its
+                            communication cost without sacrificing computational efficiency?
+                            <!-- Existing approaches, however, consume too much bandwidth or add costly computation, making large lookup tables impractical. -->
+                        </div>
+                        <div class="tldr-content">
+                            <strong>Result:</strong> Toss introduces <em>table-only stacking</em>, which combines stacked garbling
+                            with logrow but stacks only the table data. It reduces communication to
+                            O(&radic;N&nbsp;m&radic;&kappa;) while keeping its computational cost comparable to, or slightly lower
+                            than, that of logrow.
+                            <!-- For a 2<sup>20</sup>-row table of 8-bit items over a 100 Mbps link, Toss reduces communication by a factor
+                            of more than 31 and raises throughput from about 10.6 to 81 lookups per second, an improvement of over 7.5&times;. -->
+                        </div>
+                        <div class="tldr-content">
+                            <strong>Implication:</strong> Toss makes private access to much larger public tables practical within
+                            garbled circuits, enabling more efficient lookup-based designs for privacy-preserving computation.
+                        </div>
+                    </div>
                 </div>
             </li>
 
