@@ -656,7 +656,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color: #555555;
 }
 
 .blockquote-footer::before {
@@ -12598,6 +12598,39 @@ a {
   font-weight: 400;
 }
 
+.paper .title .venue-prefix {
+  color: #555555;
+  font-size: 17px;
+}
+.paper .title .venue-prefix[data-acceptance-rate] {
+  position: relative;
+  cursor: help;
+}
+.paper .title .venue-prefix[data-acceptance-rate]::after {
+  position: absolute;
+  bottom: calc(100% + 7px);
+  left: 50%;
+  z-index: 1000;
+  padding: 5px 8px;
+  border-radius: 4px;
+  background-color: #212529;
+  color: #ffffff;
+  content: attr(data-acceptance-rate);
+  font-size: 13px;
+  line-height: 1.2;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-50%);
+  transition: opacity 0.15s ease-in-out;
+  visibility: hidden;
+  white-space: nowrap;
+}
+.paper .title .venue-prefix[data-acceptance-rate]:hover::after,
+.paper .title .venue-prefix[data-acceptance-rate]:focus::after {
+  opacity: 1;
+  visibility: visible;
+}
+
 .paper .author {
   font-size: 16px;
   margin-bottom: 0;
@@ -12608,7 +12641,7 @@ a {
   margin-bottom: 0;
 }
 
-.paper .venue {
+.paper .acceptance-rate {
   font-size: 16px;
   margin-bottom: 5px;
 }
@@ -12631,8 +12664,9 @@ a {
 }
 
 .paper .btn {
-  padding: 2.4px 9.6px;
-  font-size: 12.5px;
+  padding: 2px 8px;
+  font-size: 13px;
+  line-height: 18px;
   border-radius: 4px;
 }
 

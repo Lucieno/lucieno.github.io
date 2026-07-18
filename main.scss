@@ -125,6 +125,42 @@ a {
         font-size: 20px;
         margin-bottom: 0;
         font-weight: 400;
+
+        .venue-prefix {
+            color: #555555;
+            font-size: 17px;
+
+            &[data-acceptance-rate] {
+                position: relative;
+                cursor: help;
+
+                &::after {
+                    position: absolute;
+                    bottom: calc(100% + 7px);
+                    left: 50%;
+                    z-index: 1000;
+                    padding: 5px 8px;
+                    border-radius: 4px;
+                    background-color: #212529;
+                    color: #ffffff;
+                    content: attr(data-acceptance-rate);
+                    font-size: 13px;
+                    line-height: 1.2;
+                    opacity: 0;
+                    pointer-events: none;
+                    transform: translateX(-50%);
+                    transition: opacity 0.15s ease-in-out;
+                    visibility: hidden;
+                    white-space: nowrap;
+                }
+
+                &:hover::after,
+                &:focus::after {
+                    opacity: 1;
+                    visibility: visible;
+                }
+            }
+        }
     }
 
     .author {
@@ -137,15 +173,16 @@ a {
         margin-bottom: 0;
     }
 
-    .venue {
+    .acceptance-rate {
         font-size: 16px;
         margin-bottom: 5px;
     }
 
     .btn {
-        padding: 3px 12px;
-        font-size: 14px;
-        border-radius: 5px;
+        padding: 2px 8px;
+        font-size: 13px;
+        line-height: 18px;
+        border-radius: 4px;
     }
 }
 
